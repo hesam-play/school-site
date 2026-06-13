@@ -87,5 +87,3 @@ src/
 - `lucide-react` (آیکون‌ها)
 - `tailwindcss`
 - `typescript`
-"# school-site" 
-"# school-site" 
